@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+}
+h1{
+    background-color: mediumseagreen;
+    padding: 15px;
+    border:8px solid black;
+}
+
+
+.icon-right{
+    height: 45px;
+    position: absolute;
+    top: 10px;
+	left:10px;
+}
+
+.icon-left{
+    height: 45px;
+    position: absolute;
+    top: 10px;
+	right:10px;
+}
